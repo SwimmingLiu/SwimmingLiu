@@ -9,7 +9,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/SwimmingLiu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwimmingLiu&show_icons=true&theme=transparent" alt="SwimmingLiu's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwimmingLiu&show_icons=true&theme=transparent&langs_count=3" alt="SwimmingLiu's GitHub Stats" />
 </a>
 <a href="https://github.com/SwimmingLiu">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SwimmingLiu&show_icons=true&theme=transparent" alt="SwimmingLiu's GitHub Stats" />
