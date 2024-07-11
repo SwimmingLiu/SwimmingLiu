@@ -1,4 +1,4 @@
-### Hi here 👋
+### Hi here 👋 this is **SwimmingLiu**
 ### Know me in [SwimmingLiu.cn](https://SwimmingLiu.cn)
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Linux-use?style=flat&logo=Linux&logoColor=white&label=OS&color=red)
