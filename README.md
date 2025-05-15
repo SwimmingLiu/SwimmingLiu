@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Linux-use?style=flat&logo=Linux&logoColor=white&label=OS&color=red)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/pytorch-use?style=flat&logo=pytorch&label=frame&color=orange)
-![](https://img.shields.io/badge/SpringBoot-use?style=flat&logo=SpringBoot&logoColor=white&label=Learn&color=green)
+![](https://img.shields.io/badge/SpringBoot-use?style=flat&logo=SpringBoot&logoColor=white&label=Use&color=green)
 
 
 ## &#x1f4c8; GitHub Stats
